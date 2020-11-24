@@ -16,14 +16,14 @@ The code has been run and tested on `Python 3.6.4`, `Cuda 9.0, V9.0.176` and `Py
 
 ## Dataset
 
-If running the Distribution Matching stage, downloading dataset isn't required. The extracted features can be used directly from [here](?). Else, place the dataset in `../dataset/` folder or just switch `download=True` in [simclr_main.py](simclr_main.py).
+If running the Distribution Matching stage, downloading dataset isn't required. The extracted features can be used directly from release binaries. Else, place the dataset in `../dataset/` folder or just switch `download=True` in [simclr_main.py](simclr_main.py).
 
 # Usage
 
 ## Pretrained-Models
 
-It is recommended to run the Distribution Matching stage directly using the extracted features from [here]().
-The pretrained models can be downloaded from [here](?).
+It is recommended to run the Distribution Matching stage directly using the extracted features from release binaries.
+The pretrained models can be downloaded from release binaries.
 
 
 ## Running Distribution-Matching
